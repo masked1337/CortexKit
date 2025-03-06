@@ -22,8 +22,8 @@
 - Run Strafe.exe
 
 ## ⚠️〢 Usage
-- The project is not finish yet.
-- The project is not finish yet.
+- Strafe v3 is comming soon with more futures.
+- Strafe v3 is comming soon with more futures.
  
 ## 📸〢 Preview
 ![Image](https://cdn.discordapp.com/attachments/1262676536813813781/1347206139921567825/image.png?ex=67cafafd&is=67c9a97d&hm=7f2265199a33b6544547257801a9c86b059dcf5537f0c9627fddb31883becf02&)
