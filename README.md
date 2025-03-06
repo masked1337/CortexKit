@@ -1,6 +1,6 @@
 # 💀 Strafe Discord Nuker 💀
 
-## 🔧 _Best Discord Nuker | Strafe Free Nuker_
+## 🔧 _Best Discord Nuker | Premium Versione 2.1.1 For FREE_
 - The project is not finish yet.
 - The project is not finish yet.
 
