@@ -1,5 +1,5 @@
-# CortexKit
-## _Best Discord Nuker | CortexKit Free Nuker_
+# Strafe
+## _Best Discord Nuker | Strafe Free Nuker_
 - The project is not finish yet.
 - The project is not finish yet.
 ## Installation
