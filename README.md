@@ -1,7 +1,7 @@
 # 💀 〢 Strafe Discord Nuker 
 
 ## 🔧〢 _Best Discord Nuker | Premium Versione 2.1.1 For FREE_
-- This tool was made for educational purposes and proof of concepts. I'm not accountable for any unlawful, unprecedented action and any violation of ToS administered by a third party.
+- This tool was made for educational purposes and proof of concepts. I'm not accountable for any unlawful, unprecedented action and any violation of ToS administered by a third party...
 
 ### ✅ 〢 *Features :*
 > - [x] *Ban All*
